@@ -1,2 +1,2 @@
-# registeries
-registeries of polynomial optimization problems
+# registries
+registries of polynomial optimization problems
