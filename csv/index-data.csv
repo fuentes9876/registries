@@ -1,3 +1,6 @@
 "uuid","name","url","doc"
 "83c94e7a-f3ab-5447-9af7-d94c0b1920cf","Example0","https://raw.githubusercontent.com/PolynomialOptimization/data/master/pop/83c94e7a-f3ab-5447-9af7-d94c0b1920cf.json",""
 cb46cb04-83db-11ea-0b43-87115082d076,"Motzkin",https://raw.githubusercontent.com/PolynomialOptimization/data/master/motzkin.json,"" 
+7413cfb2-95ec-11ea-0820-c7176191965f,Motzkin,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/motzkin.json,
+b7beae30-95ec-11ea-1d80-bb2b3c1718a0,Motzkin,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/motzkin.json,
+e281ccd8-95ec-11ea-083b-59586b1c4c31,Motzkin,https://raw.githubusercontent.com/PolynomialMomentOptimization/data/master/motzkin.json,
